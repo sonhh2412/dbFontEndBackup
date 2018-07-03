@@ -1,0 +1,8 @@
+{
+	"__v" : NumberInt("0"),
+	"_id" : ObjectId("598939b6056f51c05cca4361"),
+	"create_date" : ISODate("2017-08-08T11:10:30.924+07:00"),
+	"key" : "domain_image_product",
+	"name" : "Host Hình 5K",
+	"value" : "http://image.10kmua.vn/"
+},

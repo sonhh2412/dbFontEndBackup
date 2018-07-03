@@ -1,0 +1,150 @@
+{
+	"__v" : NumberInt("0"),
+	"_id" : ObjectId("59a9316b1cfd2a425ed737c6"),
+	"content" : "<div style=\"\"><span style=\"font-size: 13px;\">Mã thẻ 108254072464</span></div><div style=\"\"><span style=\"font-size: 13px;\">Trị giá: 100,000đ</span></div><div style=\"\"><span style=\"font-size: 13px;\">Seri: 062444000004770</span></div>",
+	"date_create" : ISODate("2017-09-01T17:07:39.000+07:00"),
+	"id" : NumberInt("10"),
+	"slug" : "san-pham-the-mobifone-100000-phien-1-10",
+	"title" : "Sản phẩm Thẻ Mobifone 100.000 (Phiên 1)",
+	"type_notify" : "once"
+},
+{
+	"__v" : NumberInt("0"),
+	"_id" : ObjectId("59a933341cfd2a425ed7393e"),
+	"content" : "<div style=\"\"><span style=\"font-size: 13px;\">Mã thẻ: 9663243911882</span></div><div style=\"\"><span style=\"font-size: 13px;\">Trị giá: 100,000đ</span></div><div style=\"\"><span style=\"font-size: 13px;\">Seri : 68094137746</span></div>",
+	"date_create" : ISODate("2017-09-01T17:15:16.000+07:00"),
+	"id" : NumberInt("11"),
+	"slug" : "san-pham-the-viettel-100000-phien-1-11",
+	"title" : "Sản phẩm thẻ viettel 100.000 (phien 1)",
+	"type_notify" : "many"
+},
+{
+	"__v" : NumberInt("0"),
+	"_id" : ObjectId("59a9338d1cfd2a425ed739f0"),
+	"content" : "<span style=\"font-size: 13px;\">Mã thẻ: 29478887926919 </span><div><span style=\"font-size: 13px;\">trị giá: 100,000</span></div><div><span style=\"font-size: 13px;\">seri: 36292700352611</span></div>",
+	"date_create" : ISODate("2017-09-01T17:16:45.000+07:00"),
+	"id" : NumberInt("12"),
+	"slug" : "san-pham-the-vinaphone-100000-phien-1-12",
+	"title" : "Sản phẩm thẻ Vinaphone 100.000 (phien 1)",
+	"type_notify" : "once"
+},
+{
+	"__v" : NumberInt("0"),
+	"_id" : ObjectId("59a935301cfd2a425ed73d10"),
+	"content" : "<span style=\"font-size: 13px;\">Mã: </span><span style='font-size: 13px; color: rgb(76, 76, 76); font-family: \"Lucida Grande\", Helvetica, Verdana, Arial, sans-serif;'>9663107793438 </span><div><span style='font-size: 13px; color: rgb(76, 76, 76); font-family: \"Lucida Grande\", Helvetica, Verdana, Arial, sans-serif;'>trị giá:</span><span style='color: rgb(76, 76, 76); font-family: \"Lucida Grande\", Helvetica, Verdana, Arial, sans-serif; font-size: 13px;'>100,000 </span></div><div><span style='color: rgb(76, 76, 76); font-family: \"Lucida Grande\", Helvetica, Verdana, Arial, sans-serif; font-size: 13px;'>Seri: 68095102965 </span></div>",
+	"date_create" : ISODate("2017-09-01T17:23:44.000+07:00"),
+	"id" : NumberInt("13"),
+	"slug" : "the-viettel-100000-phien-2-13",
+	"title" : "thẻ viettel 100.000 (phien 2)",
+	"type_notify" : "once"
+},
+{
+	"__v" : NumberInt("0"),
+	"_id" : ObjectId("59a935731cfd2a425ed73d36"),
+	"content" : "<span style=\"font-size: 13px;\">Mã:73235852605039 </span><div><span style=\"font-size: 13px;\">trị giá: 100,000 </span></div><div><span style=\"font-size: 13px;\">seri:36292700352615</span></div>",
+	"date_create" : ISODate("2017-09-01T17:24:51.000+07:00"),
+	"id" : NumberInt("14"),
+	"slug" : "the-vinaphone-100000-phien-2-14",
+	"title" : "Thẻ vinaphone 100.000 (phien 2)",
+	"type_notify" : "many"
+},
+{
+	"__v" : NumberInt("0"),
+	"_id" : ObjectId("59a935b01cfd2a425ed73e95"),
+	"content" : "<span style=\"font-size: 13px;\">9663832515901 </span><div><span style=\"font-size: 13px;\">100,000 </span></div><div><span style=\"font-size: 13px;\">68094133585</span></div>",
+	"date_create" : ISODate("2017-09-01T17:25:52.000+07:00"),
+	"id" : NumberInt("15"),
+	"slug" : "the-mobifone-100000-phien-2-15",
+	"title" : "thẻ mobifone 100.000 (phien 2)",
+	"type_notify" : "once"
+},
+{
+	"__v" : NumberInt("0"),
+	"_id" : ObjectId("59afbfdf1cfd2a425ed927a0"),
+	"content" : "<p>test</p>",
+	"date_create" : ISODate("2017-09-06T16:29:03.000+07:00"),
+	"id" : NumberInt("16"),
+	"slug" : "test-16",
+	"title" : "test",
+	"type_notify" : "once"
+},
+{
+	"__v" : NumberInt("0"),
+	"_id" : ObjectId("59e073d91cfd2a425e1563f1"),
+	"content" : "<div>Quý khách <b>01697378286 </b>là khách hàng may mắn sở hữu sản phẩm Thẻ Điện Thoại Viettel 200.000đ ( Phiên 1)</div>Mua5k trân trọng gửi tới Quý Khách sản phẩm Thẻ Điện Thoại Viettel 200.000đ ( Phiên 1)<div><br><div>Mã thẻ: <b>0054133445269</b></div><div>Số Seri: <b>07819901032</b></div><div><br></div><div>Cảm ơn Quý khách đã mua sản phẩm trên Mua5k.</div></div>",
+	"date_create" : ISODate("2017-10-13T15:05:45.000+07:00"),
+	"id" : NumberInt("17"),
+	"slug" : "san-pham-the-dien-thoai-viettel-200k-phien-1-17",
+	"title" : "Sản phẩm thẻ điện thoại Viettel 200k Phiên 1",
+	"type_notify" : "once"
+},
+{
+	"__v" : NumberInt("0"),
+	"_id" : ObjectId("59e9acd41cfd2a425e22b37c"),
+	"content" : "<div style='box-sizing: border-box; font-family: Roboto, \"Helvetica Neue\", Helvetica, Arial, sans-serif; text-align: justify; background-color: rgb(255, 255, 255);'>Quý khách <b style=\"box-sizing: border-box;\">01626409519 </b>là khách hàng may mắn sở hữu sản phẩm Thẻ Điện Thoại Viettel 100.000đ ( Phiên 4)</div><span style='font-family: Roboto, \"Helvetica Neue\", Helvetica, Arial, sans-serif; text-align: justify; background-color: rgb(255, 255, 255);'>Mua5k trân trọng gửi tới Quý Khách sản phẩm Thẻ Điện Thoại Viettel 100.000đ ( Phiên 4)</span><div style='box-sizing: border-box; font-family: Roboto, \"Helvetica Neue\", Helvetica, Arial, sans-serif; text-align: justify; background-color: rgb(255, 255, 255);'><br style=\"box-sizing: border-box;\"><div style=\"box-sizing: border-box;\">Mã thẻ: <b style=\"box-sizing: border-box;\">9666789017649</b></div><div style=\"box-sizing: border-box;\">Số Seri: <b style=\"box-sizing: border-box;\">68028719387</b></div></div>",
+	"date_create" : ISODate("2017-10-20T14:59:16.000+07:00"),
+	"id" : NumberInt("18"),
+	"slug" : "san-pham-the-dien-thoai-viettel-100k-phien-4-18",
+	"title" : "Sản phẩm thẻ điện thoại Viettel 100k Phiên 4",
+	"type_notify" : "once"
+},
+{
+	"__v" : NumberInt("0"),
+	"_id" : ObjectId("5a03d0551cfd2a425e4cccf2"),
+	"content" : "<p>tess nha</p>",
+	"date_create" : ISODate("2017-11-09T10:49:41.000+07:00"),
+	"id" : NumberInt("21"),
+	"slug" : "test-notifi-app-21",
+	"title" : "test notifi app",
+	"type_notify" : "once"
+},
+{
+	"__v" : NumberInt("0"),
+	"_id" : ObjectId("5a03d0aa1cfd2a425e4cce98"),
+	"content" : "<p>dsfsdfsdfsdfsdf</p>",
+	"date_create" : ISODate("2017-11-09T10:51:06.000+07:00"),
+	"id" : NumberInt("22"),
+	"slug" : "test1-22",
+	"title" : "test1",
+	"type_notify" : "once"
+},
+{
+	"__v" : NumberInt("0"),
+	"_id" : ObjectId("5a03d8231cfd2a425e4cdbd8"),
+	"content" : "<p>Thông báo test</p>",
+	"date_create" : ISODate("2017-11-09T11:22:50.000+07:00"),
+	"id" : NumberInt("23"),
+	"slug" : "gui-test-23",
+	"title" : "Gửi test",
+	"type_notify" : "once"
+},
+{
+	"__v" : NumberInt("0"),
+	"_id" : ObjectId("5a055c2a1cfd2a425e4edae6"),
+	"content" : "<p>Test thông báo mới</p>",
+	"date_create" : ISODate("2017-11-10T14:58:32.000+07:00"),
+	"id" : NumberInt("24"),
+	"slug" : "test1110-24",
+	"title" : "Test_1110",
+	"type_notify" : "once"
+},
+{
+	"__v" : NumberInt("0"),
+	"_id" : ObjectId("59e9ad611cfd2a425e22b562"),
+	"content" : "<div style='box-sizing: border-box; font-family: Roboto, \"Helvetica Neue\", Helvetica, Arial, sans-serif; text-align: justify;'><span style=\"background-color: rgb(255, 255, 255);\">Mua5k trân trọng gửi tới Quý Khách sản phẩm Thẻ Điện Thoại Viettel 100.000đ ( Phiên 4)</span></div><div style='box-sizing: border-box; font-family: Roboto, \"Helvetica Neue\", Helvetica, Arial, sans-serif; text-align: justify;'>Mã thẻ: <b style=\"box-sizing: border-box;\">9666720838588</b></div><div style='box-sizing: border-box; font-family: Roboto, \"Helvetica Neue\", Helvetica, Arial, sans-serif; text-align: justify;'>Số Seri: <b style=\"box-sizing: border-box;\">68028719370</b></div>",
+	"date_create" : ISODate("2017-10-20T15:01:37.000+07:00"),
+	"id" : NumberInt("19"),
+	"slug" : "san-pham-the-dien-thoai-viettel-100k-phien-5-19",
+	"title" : "Sản phẩm thẻ điện thoại Viettel 100k Phien 5",
+	"type_notify" : "once"
+},
+{
+	"__v" : NumberInt("0"),
+	"_id" : ObjectId("59ffdb3c1cfd2a425e475393"),
+	"content" : "<div><span style=\"font-size: 13px;\">Chúc mừng khách hàng letuan3008@gmail.com đã nhận giải thưởng từ Mua5k.com</span></div><span style=\"font-size: 13px;\"><div><span style=\"font-size: 13px;\"><br></span></div>Mã thẻ Mobifone 100.000 đ</span><div><span style=\"font-size: 13px;\"><br></span><div><span style=\"font-size: 13px;\"> Mã thẻ: 586522450044 </span></div><div><span style=\"font-size: 13px;\"> Seri: 064265000017319</span></div></div>",
+	"date_create" : ISODate("2017-11-06T10:47:02.000+07:00"),
+	"id" : NumberInt("20"),
+	"slug" : "phien-3-the-dien-thoai-mobifone-100000-20",
+	"title" : "(PHIÊN 3) THẺ ĐIỆN THOẠI MOBIFONE 100.000",
+	"type_notify" : "once"
+},

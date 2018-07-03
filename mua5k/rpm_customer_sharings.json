@@ -1,0 +1,204 @@
+{
+	"__v" : NumberInt("0"),
+	"_id" : ObjectId("59dae46b15b20c4b0411071a"),
+	"comment" : [ ],
+	"content" : "<p>Cảm ơn admin đã gửi mã rất nhanh và chính xác</p>",
+	"image_main" : "https://i.imgur.com/moi2bLn.png",
+	"images" : [
+		"https://i.imgur.com/UtxUXd0.jpg",
+		"https://i.imgur.com/UtxUXd0.jpg",
+		"https://i.imgur.com/UtxUXd0.jpg"
+	],
+	"like" : [
+		"598922840aa2c96d3fcfd815"
+	],
+	"name" : "Trúng thưởng mã thẻ Viettel 100k !!!",
+	"product" : [
+		{
+			"slug" : "the-dien-thoai-viettel-100-000-825",
+			"id" : NumberInt("825"),
+			"name" : "Thẻ Điện Thoại Viettel 100.000"
+		}
+	],
+	"publish" : ISODate("2017-10-09T09:52:27.922+07:00"),
+	"session" : [
+		{
+			"session_id" : NumberInt("8564"),
+			"session_number" : NumberInt("2")
+		}
+	],
+	"slug" : "trung-thuong-ma-the-viettel-100k",
+	"user" : [
+		{
+			"_id" : "599b9c039f88e3c4412e9929",
+			"time_result" : "2017-08-26 10:49:00.238",
+			"winner_code" : NumberInt("100000001"),
+			"number_code" : NumberInt("1")
+		}
+	],
+	"view" : NumberInt("17")
+},
+{
+	"__v" : NumberInt("0"),
+	"_id" : ObjectId("59dc5730b49942bb01a11d52"),
+	"comment" : [ ],
+	"content" : "<p>Cảm ơn admin</p>",
+	"image_main" : "https://i.imgur.com/1oetrg1.png",
+	"images" : [
+		"https://i.imgur.com/1oetrg1.png",
+		"https://i.imgur.com/1oetrg1.png",
+		"https://i.imgur.com/1oetrg1.png"
+	],
+	"like" : [
+		"598922840aa2c96d3fcfd815"
+	],
+	"name" : "Nạp thanh fcong mã thẻ Mobi 100",
+	"product" : [
+		{
+			"name" : "Thẻ Điện Thoại Mobifone 100.000",
+			"id" : NumberInt("828"),
+			"slug" : "the-dien-thoai-mobifone-100-000-828"
+		}
+	],
+	"publish" : ISODate("2017-10-10T12:14:24.659+07:00"),
+	"session" : [
+		{
+			"session_number" : NumberInt("1"),
+			"session_id" : NumberInt("8533")
+		}
+	],
+	"slug" : "nap-thanh-fcong-ma-the-mobi-100",
+	"user" : [
+		{
+			"_id" : "599b99a2167e8491240f064a",
+			"number_code" : NumberInt("1"),
+			"winner_code" : NumberInt("100000017"),
+			"time_result" : "2017-08-26 10:28:00.543"
+		}
+	],
+	"view" : NumberInt("10")
+},
+{
+	"__v" : NumberInt("0"),
+	"_id" : ObjectId("59dc588eb49942bb01a11d53"),
+	"comment" : [ ],
+	"content" : "<p>cảm ơn đã gửi mã cho tôi</p>",
+	"image_main" : "https://i.imgur.com/sdq31sT.png",
+	"images" : [
+		"https://i.imgur.com/sdq31sT.png",
+		"https://i.imgur.com/sdq31sT.png",
+		"https://i.imgur.com/sdq31sT.png"
+	],
+	"like" : [
+		"598922840aa2c96d3fcfd815"
+	],
+	"name" : "nhận và nap được thẻ vina 100k",
+	"product" : [
+		{
+			"name" : "Thẻ Điện Thoại Vinaphone 100.000",
+			"id" : NumberInt("832"),
+			"slug" : "the-dien-thoai-vinaphone-100-000-832"
+		}
+	],
+	"publish" : ISODate("2017-10-10T12:20:14.447+07:00"),
+	"session" : [
+		{
+			"session_number" : NumberInt("1"),
+			"session_id" : NumberInt("8643")
+		}
+	],
+	"slug" : "nhan-va-nap-duoc-the-vina-100k",
+	"user" : [
+		{
+			"_id" : "599b9a1f167e8491240f064c",
+			"number_code" : NumberInt("2"),
+			"winner_code" : NumberInt("100000020"),
+			"time_result" : "2017-08-26 10:24:00.707"
+		}
+	],
+	"view" : NumberInt("10")
+},
+{
+	"__v" : NumberInt("0"),
+	"_id" : ObjectId("59dc7903b49942bb01a11d5d"),
+	"comment" : [
+		{
+			"comment_content" : "Ông mất bn thế .  Trước mua có 2 mã trúng luôn. h thấy khó trúng vl",
+			"user_id" : "599b9f9f9f88e3c4412e992e",
+			"comment_date" : ISODate("2017-10-10T14:40:42.800+07:00")
+		}
+	],
+	"content" : "<p>may quá, đang thiếu tiền đt</p>",
+	"image_main" : "https://i.imgur.com/YL9pld6.png",
+	"images" : [
+		"https://i.imgur.com/YL9pld6.png",
+		"https://i.imgur.com/YL9pld6.png",
+		"https://i.imgur.com/YL9pld6.png"
+	],
+	"like" : [
+		"598922840aa2c96d3fcfd815"
+	],
+	"name" : "trúng rồi, đây là mã thẻ của tôi",
+	"product" : [
+		{
+			"name" : "Thẻ Điện Thoại Viettel 100.000",
+			"id" : NumberInt("825"),
+			"slug" : "the-dien-thoai-viettel-100-000-825"
+		}
+	],
+	"publish" : ISODate("2017-10-10T14:38:43.388+07:00"),
+	"session" : [
+		{
+			"session_number" : NumberInt("1"),
+			"session_id" : NumberInt("8563")
+		}
+	],
+	"slug" : "trung-roi-day-la-ma-the-cua-toi",
+	"user" : [
+		{
+			"_id" : "5992552da75aa21b555e492f",
+			"number_code" : NumberInt("2"),
+			"winner_code" : NumberInt("100000014"),
+			"time_result" : "2017-08-26 10:22:00.184"
+		}
+	],
+	"view" : NumberInt("39")
+},
+{
+	"__v" : NumberInt("0"),
+	"_id" : ObjectId("59e4597d266e05a3122a4222"),
+	"comment" : [ ],
+	"content" : "<p>Chơi đc quả này vui quá</p>",
+	"image_main" : "https://i.imgur.com/Wpvc4TR.png",
+	"images" : [
+		"https://i.imgur.com/Wpvc4TR.png",
+		"https://i.imgur.com/Wpvc4TR.png",
+		"https://i.imgur.com/Wpvc4TR.png"
+	],
+	"like" : [ ],
+	"name" : "Hên quá dùng 5k thôi trúng 200.000 thẻ viettel",
+	"product" : [
+		{
+			"slug" : "the-dien-thoai-viettel-200-000-824",
+			"id" : NumberInt("824"),
+			"name" : "Thẻ Điện Thoại Viettel 200.000"
+		}
+	],
+	"publish" : ISODate("2017-10-16T14:02:21.111+07:00"),
+	"session" : [
+		{
+			"session_id" : NumberInt("8573"),
+			"session_number" : NumberInt("1")
+		}
+	],
+	"slug" : "hen-qua-dung-5k-thoi-trung-200000-the-viettel",
+	"user" : [
+		{
+			"_id" : "59dc656cb49942bb01a11d57",
+			"time_result" : "2017-10-12 16:25:00.41",
+			"winner_code" : NumberInt("100000014"),
+			"number_code" : NumberInt("1")
+		}
+	],
+	"view" : NumberInt("22")
+},

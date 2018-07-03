@@ -1,0 +1,368 @@
+{
+	"__v" : NumberInt("0"),
+	"_id" : ObjectId("59899896ab58d90941b39bc0"),
+	"date" : ISODate("2017-08-08T16:21:44.990+07:00"),
+	"description" : [
+		"100002118"
+	],
+	"id" : NumberInt("199"),
+	"lines" : [
+		{
+			"product_id" : NumberInt("775"),
+			"name" : "Trúng thưởng sản phẩm Laptop Apple Macbook 12\" MLH72 Core M 1.1G/8GB/256GB/MacOS (2016)",
+			"quantity" : NumberInt("1"),
+			"price_unit" : NumberInt("37788000")
+		}
+	],
+	"name" : "SO199",
+	"note" : "",
+	"partner_id" : "598922840aa2c96d3fcfd815",
+	"shipper_id" : "598922840aa2c96d3fcfd815",
+	"state" : "confirm",
+	"state_string" : "Confirm"
+},
+{
+	"__v" : NumberInt("0"),
+	"_id" : ObjectId("59899896ab58d90941b39bc1"),
+	"date" : ISODate("2017-08-08T16:21:44.990+07:00"),
+	"description" : [
+		"100002656"
+	],
+	"id" : NumberInt("200"),
+	"lines" : [
+		{
+			"product_id" : NumberInt("770"),
+			"name" : "Trúng thưởng sản phẩm Điện thoại iPhone 7 Red 128GB",
+			"quantity" : NumberInt("1"),
+			"price_unit" : NumberInt("23988000")
+		}
+	],
+	"name" : "SO200",
+	"note" : "",
+	"partner_id" : "598922840aa2c96d3fcfd815",
+	"shipper_id" : "598922840aa2c96d3fcfd815",
+	"state" : "confirm",
+	"state_string" : "Confirm"
+},
+{
+	"__v" : NumberInt("0"),
+	"_id" : ObjectId("59899896ab58d90941b39bc2"),
+	"date" : ISODate("2017-08-08T16:21:44.990+07:00"),
+	"description" : [
+		"100004063"
+	],
+	"id" : NumberInt("201"),
+	"lines" : [
+		{
+			"product_id" : NumberInt("786"),
+			"name" : "Trúng thưởng sản phẩm Android Tivi Sony 55 inch KDL-55W800C",
+			"quantity" : NumberInt("1"),
+			"price_unit" : NumberInt("26268000")
+		}
+	],
+	"name" : "SO201",
+	"note" : "",
+	"partner_id" : "598922840aa2c96d3fcfd815",
+	"shipper_id" : "598922840aa2c96d3fcfd815",
+	"state" : "confirm",
+	"state_string" : "Confirm"
+},
+{
+	"__v" : NumberInt("0"),
+	"_id" : ObjectId("59899896ab58d90941b39bc3"),
+	"date" : ISODate("2017-08-08T16:21:44.990+07:00"),
+	"description" : [
+		"100000093"
+	],
+	"id" : NumberInt("202"),
+	"lines" : [
+		{
+			"product_id" : NumberInt("826"),
+			"name" : "Trúng thưởng sản phẩm Thẻ điện thoại Mobifone 500.000",
+			"quantity" : NumberInt("1"),
+			"price_unit" : NumberInt("500000")
+		}
+	],
+	"name" : "SO202",
+	"note" : "",
+	"partner_id" : "598922840aa2c96d3fcfd815",
+	"shipper_id" : "598922840aa2c96d3fcfd815",
+	"state" : "confirm",
+	"state_string" : "Confirm"
+},
+{
+	"__v" : NumberInt("0"),
+	"_id" : ObjectId("59899896ab58d90941b39bc4"),
+	"date" : ISODate("2017-08-08T16:21:44.990+07:00"),
+	"description" : [
+		"100003753"
+	],
+	"id" : NumberInt("203"),
+	"lines" : [
+		{
+			"product_id" : NumberInt("761"),
+			"name" : "Trúng thưởng sản phẩm Điện thoại Samsung Galaxy S8 Plus Black",
+			"quantity" : NumberInt("1"),
+			"price_unit" : NumberInt("24588000")
+		}
+	],
+	"name" : "SO203",
+	"note" : "",
+	"partner_id" : "598922840aa2c96d3fcfd815",
+	"shipper_id" : "598922840aa2c96d3fcfd815",
+	"state" : "confirm",
+	"state_string" : "Confirm"
+},
+{
+	"__v" : NumberInt("0"),
+	"_id" : ObjectId("59a0ea299f88e3c4412e9974"),
+	"date" : ISODate("2017-08-22T09:44:03.704+07:00"),
+	"description" : [
+		"100000014"
+	],
+	"id" : NumberInt("204"),
+	"lines" : [
+		{
+			"product_id" : NumberInt("825"),
+			"name" : "Trúng thưởng sản phẩm Thẻ điện thoại Viettel 100.000",
+			"quantity" : NumberInt("1"),
+			"price_unit" : NumberInt("100000")
+		}
+	],
+	"name" : "SO204",
+	"note" : "",
+	"partner_id" : "5992552da75aa21b555e492f",
+	"shipper_id" : "c2583464f00d2d5968653b404fcb3d9e",
+	"state" : "confirm",
+	"state_string" : "Confirm"
+},
+{
+	"__v" : NumberInt("0"),
+	"_id" : ObjectId("59a0ea299f88e3c4412e9975"),
+	"date" : ISODate("2017-08-22T09:44:03.704+07:00"),
+	"description" : [
+		"100000020"
+	],
+	"id" : NumberInt("205"),
+	"lines" : [
+		{
+			"product_id" : NumberInt("832"),
+			"name" : "Trúng thưởng sản phẩm Thẻ điện thoại Vinaphone 100.000",
+			"quantity" : NumberInt("1"),
+			"price_unit" : NumberInt("100000")
+		}
+	],
+	"name" : "SO205",
+	"note" : "",
+	"partner_id" : "599b9a1f167e8491240f064c",
+	"shipper_id" : "599b9a1f167e8491240f064c",
+	"state" : "confirm",
+	"state_string" : "Confirm"
+},
+{
+	"__v" : NumberInt("0"),
+	"_id" : ObjectId("59a0eb559f88e3c4412e997a"),
+	"date" : ISODate("2017-08-22T09:44:03.704+07:00"),
+	"description" : [
+		"100000017"
+	],
+	"id" : NumberInt("206"),
+	"lines" : [
+		{
+			"product_id" : NumberInt("828"),
+			"name" : "Trúng thưởng sản phẩm Thẻ điện thoại Mobifone 100k",
+			"quantity" : NumberInt("1"),
+			"price_unit" : NumberInt("100000")
+		}
+	],
+	"name" : "SO206",
+	"note" : "",
+	"partner_id" : "599b99a2167e8491240f064a",
+	"shipper_id" : "599b99a2167e8491240f064a",
+	"state" : "confirm",
+	"state_string" : "Confirm"
+},
+{
+	"__v" : NumberInt("0"),
+	"_id" : ObjectId("59a0efe59f88e3c4412e99ba"),
+	"date" : ISODate("2017-08-22T09:44:03.704+07:00"),
+	"description" : [
+		"100000006"
+	],
+	"id" : NumberInt("207"),
+	"lines" : [
+		{
+			"product_id" : NumberInt("832"),
+			"name" : "Trúng thưởng sản phẩm Thẻ điện thoại Vinaphone 100.000",
+			"quantity" : NumberInt("1"),
+			"price_unit" : NumberInt("100000")
+		}
+	],
+	"name" : "SO207",
+	"note" : "",
+	"partner_id" : "599b9c039f88e3c4412e9929",
+	"shipper_id" : "599b9c039f88e3c4412e9929",
+	"state" : "confirm",
+	"state_string" : "Confirm"
+},
+{
+	"__v" : NumberInt("0"),
+	"_id" : ObjectId("59a0efe59f88e3c4412e99bb"),
+	"date" : ISODate("2017-08-22T09:44:03.704+07:00"),
+	"description" : [
+		"100000001"
+	],
+	"id" : NumberInt("208"),
+	"lines" : [
+		{
+			"product_id" : NumberInt("828"),
+			"name" : "Trúng thưởng sản phẩm Thẻ điện thoại Mobifone 100k",
+			"quantity" : NumberInt("1"),
+			"price_unit" : NumberInt("100000")
+		}
+	],
+	"name" : "SO209",
+	"note" : "",
+	"partner_id" : "5992552da75aa21b555e492f",
+	"shipper_id" : "c2583464f00d2d5968653b404fcb3d9e",
+	"state" : "confirm",
+	"state_string" : "Confirm"
+},
+{
+	"__v" : NumberInt("0"),
+	"_id" : ObjectId("59a0efe59f88e3c4412e99bc"),
+	"date" : ISODate("2017-08-22T09:44:03.704+07:00"),
+	"description" : [
+		"100000001"
+	],
+	"id" : NumberInt("209"),
+	"lines" : [
+		{
+			"product_id" : NumberInt("825"),
+			"name" : "Trúng thưởng sản phẩm Thẻ điện thoại Viettel 100.000",
+			"quantity" : NumberInt("1"),
+			"price_unit" : NumberInt("100000")
+		}
+	],
+	"name" : "SO208",
+	"note" : "",
+	"partner_id" : "599b9c039f88e3c4412e9929",
+	"shipper_id" : "599b9c039f88e3c4412e9929",
+	"state" : "confirm",
+	"state_string" : "Confirm"
+},
+{
+	"__v" : NumberInt("0"),
+	"_id" : ObjectId("59df248df34d20cd037d5dae"),
+	"date" : ISODate("2017-10-12T14:39:35.963+07:00"),
+	"description" : [
+		"100000007"
+	],
+	"id" : NumberInt("210"),
+	"lines" : [
+		{
+			"product_id" : NumberInt("833"),
+			"name" : "Trúng thưởng sản phẩm Thẻ điện thoại Vinaphone 200.000",
+			"quantity" : NumberInt("1"),
+			"price_unit" : NumberInt("200000")
+		}
+	],
+	"name" : "SO210",
+	"note" : "",
+	"partner_id" : "59a0e15e9f88e3c4412e9936",
+	"shipper_id" : "59a0e15e9f88e3c4412e9936",
+	"state" : "confirm",
+	"state_string" : "Confirm"
+},
+{
+	"__v" : NumberInt("0"),
+	"_id" : ObjectId("59df3503f34d20cd037d5dbd"),
+	"date" : ISODate("2017-10-12T14:39:35.963+07:00"),
+	"description" : [
+		"100000014"
+	],
+	"id" : NumberInt("211"),
+	"lines" : [
+		{
+			"product_id" : NumberInt("824"),
+			"name" : "Trúng thưởng sản phẩm Thẻ điện thoại Viettel 200.000",
+			"quantity" : NumberInt("1"),
+			"price_unit" : NumberInt("200000")
+		}
+	],
+	"name" : "SO211",
+	"note" : "",
+	"partner_id" : "59dc656cb49942bb01a11d57",
+	"shipper_id" : "59dc656cb49942bb01a11d57",
+	"state" : "confirm",
+	"state_string" : "Confirm"
+},
+{
+	"__v" : NumberInt("0"),
+	"_id" : ObjectId("59e864ebfe589bd97d243e6e"),
+	"date" : ISODate("2017-10-19T09:52:16.247+07:00"),
+	"description" : [
+		"100000005"
+	],
+	"id" : NumberInt("212"),
+	"lines" : [
+		{
+			"product_id" : NumberInt("825"),
+			"name" : "Trúng thưởng sản phẩm Thẻ điện thoại Viettel 100.000",
+			"quantity" : NumberInt("1"),
+			"price_unit" : NumberInt("100000")
+		}
+	],
+	"name" : "SO212",
+	"note" : "",
+	"partner_id" : "59dc28dbb49942bb01a11d3a",
+	"shipper_id" : "59dc28dbb49942bb01a11d3a",
+	"state" : "confirm",
+	"state_string" : "Confirm"
+},
+{
+	"__v" : NumberInt("0"),
+	"_id" : ObjectId("59e99dc7436c128b099d5806"),
+	"date" : ISODate("2017-10-20T10:25:55.447+07:00"),
+	"description" : [
+		"100000015"
+	],
+	"id" : NumberInt("213"),
+	"lines" : [
+		{
+			"product_id" : NumberInt("825"),
+			"name" : "Trúng thưởng sản phẩm Thẻ điện thoại Viettel 100.000",
+			"quantity" : NumberInt("1"),
+			"price_unit" : NumberInt("100000")
+		}
+	],
+	"name" : "SO213",
+	"note" : "",
+	"partner_id" : "5993bbe7a75aa21b555e497d",
+	"shipper_id" : "22982036fe2eb2b1114624b9e8d4fcd7",
+	"state" : "confirm",
+	"state_string" : "Confirm"
+},
+{
+	"__v" : NumberInt("0"),
+	"_id" : ObjectId("59fac151fd9219ea066271c9"),
+	"date" : ISODate("2017-10-30T09:59:28.811+07:00"),
+	"description" : [
+		"100000006"
+	],
+	"id" : NumberInt("214"),
+	"lines" : [
+		{
+			"product_id" : NumberInt("828"),
+			"name" : "Trúng thưởng sản phẩm Thẻ điện thoại Mobifone 100k",
+			"quantity" : NumberInt("1"),
+			"price_unit" : NumberInt("100000")
+		}
+	],
+	"name" : "SO214",
+	"note" : "",
+	"partner_id" : "59d7530e15b20c4b041106b8",
+	"shipper_id" : "59d7530e15b20c4b041106b8",
+	"state" : "confirm",
+	"state_string" : "Confirm"
+},

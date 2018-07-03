@@ -1,0 +1,11 @@
+{
+	"__v" : NumberInt("0"),
+	"_id" : ObjectId("591436ed973133d17bf5d726"),
+	"description" : "Thông báo trên diễn đàn",
+	"image" : "http://thcs-vthai.phuvang.thuathienhue.edu.vn/imgs/Thu_muc_he_thong/giao-dien-trang-wep/thong-bao.jpg",
+	"name" : "Thông Báo",
+	"parent_id" : "0",
+	"publish" : ISODate("2017-05-11T17:03:25.463+07:00"),
+	"slug" : "thongbao",
+	"state" : NumberInt("1")
+},
